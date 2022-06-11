@@ -4,3 +4,5 @@
 Ways to improve:
 - Keep a running tab of all gussed letters in a list:
 -   If user attempt to guess a letter they have already used, the program would alert the user and not deduct a life. 
+
+![]Hangman.gif
